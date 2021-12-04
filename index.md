@@ -12,4 +12,4 @@ Jet Simulation Aims to create great plugins for X-Plane 11.
 
 [Discord](https://discord.gg/H8Ujry98mX)
 
-Email: support@jet-simulation.com
+Email: [support@jet-simulation.com](support@jet-simulation.com)
